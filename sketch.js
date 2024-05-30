@@ -86,7 +86,7 @@ function preload(){
 
 function setup(){
   createCanvas(1350 , 3720);
-  background("#421f38")
+  background("#ADD8E6")
   image(bg, 0, 0, 1350, 300);
   image(logo, 650, -40, 120, 120);
   image(bgimage, 60, 2340, 300, 350);
